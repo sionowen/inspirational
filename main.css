@@ -1,0 +1,14 @@
+.Top{
+	border-bottom: solid 10px;
+	border-color: #3264ff;
+}
+
+.Description{
+	width: 50%;
+	margin-left: 20%;
+
+}
+
+.Description p{
+	font-size: 20px;
+}
