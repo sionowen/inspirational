@@ -1,14 +1,54 @@
-.Top{
+.top{
 	border-bottom: solid 10px;
 	border-color: #3264ff;
 }
 
-.Description{
+.description{
 	width: 50%;
 	margin-left: 20%;
 
 }
 
-.Description p{
+.description p{
 	font-size: 20px;
 }
+
+body{
+	background-color: #edefeb;
+}
+
+.quotesContainer{
+	width: 85%;
+	background-color: white;
+
+}
+
+.quoteCreation{
+	width: 75%;
+	background-color: white;
+	margin-left: 20%;
+	height: 200px;
+}
+
+.textContainer{
+	width:  80%;
+	height: 70%;
+	border: solid 3px;
+	border-color: #3264ff;
+	margin-left: 5%;
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.textEnter{
+	float: right;
+	margin-right: 30px;
+}
+
+.textInput{
+	height: 96%;
+	width: 99%;
+
+}
+
+
